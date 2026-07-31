@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on Smart Gym Trainer Robot and an AI driven software project<br><br>I'm currently learning Machine Learning, AI search algorithms, Object Oriented Programming (Java), And object oriented Analysis and Design<br><br>I'm interested in watching cartoons and playing games and of coding course
+I'm currently working on Smart Gym Trainer Robot and an AI driven software project<br><br>I'm currently learning Machine Learning, AI search algorithms, Object Oriented Programming (Java), And object oriented Analysis and Design<br><br>I'm interested in watching cartoons and playing games and coding of course
 
 
 ## 🌐 Socials:
